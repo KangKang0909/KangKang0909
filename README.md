@@ -1,4 +1,4 @@
-<h1 align="center" style="color:#ff69b4;"> Hi ,✨I'm Delin Kang</h1>
+<h1 align="center" style="color:#ff69b4;"> Hi ,✨I'm Delin Kang</h1>   
 
 <h3 align="center" style="color:#ff69b4;"> Protecting the Future with AI/ML and Cybersecurity</h3>
 
@@ -8,18 +8,34 @@
 
 ---
 
-## 👨‍🎓 About Me
+## 👨‍🎓 About Me   
+I'm **Delin Kang** being passionate about the intersection of **AI/ML** and **Cybersecurity**. My mission is to deepen my research in Artificial Intelligence and Cybersecurity, exploring how intelligent systems can enhance digital security and ready for pursuing a Ph.D. to push the boundaries of this field.   
 
-I'm **Delin Kang** being passionate about the intersection of **AI/ML** and **Cybersecurity**. My mission is to deepen my research in Artificial Intelligence and Cybersecurity, exploring how intelligent systems can enhance digital security and ready for pursuing a Ph.D. to push the boundaries of this field.
 
-
-- 🎓 Earned the bachelor's degree of **Computer Science and Technology**.  
-- 🎓 Pursuing the master's degree of **Network Engineering**.
+- 🎓 Earned the bachelor's degree of **Computer Science and Technology**.   
+- 🎓 Pursuing the master's degree of **Network Engineering**.   
 
 ---
-## 🛠️ Tech Stack
-#### 💻 Languages
+## 🛠️ Tech Stack  
+#### 💻 Languages   
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%23646464?style=for-the-badge&logo=cplusplus) 
+![C](https://img.shields.io/badge/C-%233776AB?style=for-the-badge&logo=c)   
 
+#### 🤖 AI/ML Frameworks   
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
+
+
+## 🔗 Let’s Connect!   
+Ready to collaborate on cutting-edge AI/ML or Cybersecuritys? Reach out!   
+<p align="center">
+  <a href="https://github.com/KangKang0909"><img src="https://img.shields.io/badge/DELINKANG0909-%233776AB?style=for-the-badge&logo=github&label=GITHUB" alt="GitHub"/></a>
+  <a href="mailto:conneralfter@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-%23EA4335?style=for-the-badge&logo=gmail&label=gmail" alt="Email"/></a>
+</p>
 
 
 
