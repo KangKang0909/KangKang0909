@@ -31,7 +31,7 @@ I'm **Delin Kang** being passionate about the intersection of **AI/ML** and **Cy
 
 
 ## 🔗 Let’s Connect!   
-Ready to collaborate on cutting-edge AI/ML or Cybersecuritys? Reach out!   
+Ready to collaborate on cutting-edge AI/ML or Cybersecurity? Reach out!   
 <p align="center">
   <a href="https://github.com/KangKang0909"><img src="https://img.shields.io/badge/DELINKANG0909-%233776AB?style=for-the-badge&logo=github&label=GITHUB" alt="GitHub"/></a>
   <a href="mailto:conneralfter@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-%23EA4335?style=for-the-badge&logo=gmail&label=gmail" alt="Email"/></a>
