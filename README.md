@@ -9,7 +9,7 @@
 ---
 
 ## 👨‍🎓 About Me   
-I'm **Delin Kang** being passionate about the intersection of **AI/ML** and **Cybersecurity**. My mission is to deepen my research in Artificial Intelligence and Cybersecurity, exploring how intelligent systems can enhance digital security and ready for pursuing a Ph.D. to push the boundaries of this field.   
+I'm **a Master student** being passionate about the intersection of **AI/ML** and **Cybersecurity**. My mission is to deepen my research in Artificial Intelligence and Cybersecurity, exploring how intelligent systems can enhance digital security and ready for pursuing a Ph.D. to push the boundaries of this field.   
 
 
 - 🎓 Earned the bachelor's degree of **Computer Science and Technology**.   
@@ -25,6 +25,10 @@ I'm **Delin Kang** being passionate about the intersection of **AI/ML** and **Cy
 #### 🤖 AI/ML Frameworks   
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white)
+![Numpy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-153458?style=for-the-badge&logo=chartdotjs&logoColor=white)
+
 
 
 
