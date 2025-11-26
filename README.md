@@ -15,6 +15,10 @@ I'm **a Master student** being passionate about the intersection of **AI/ML** an
 - 🎓 Earned the bachelor's degree of **Computer Science and Technology**.   
 - 🎓 Pursuing the master's degree of **Network Engineering**.   
 
+**Theoretical Foundations**
+- 🔢 **Applied Mathematics**: The practical programming application of probability, Statistics, and Algebra for ML.
+- 🛡️ **Cryptography**: Encryption principles and secure communications connected to the implementation of the Python.
+
 ---
 ## 🛠️ Tech Stack  
 #### 💻 Languages   
