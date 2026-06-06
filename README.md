@@ -9,11 +9,10 @@
 ---
 
 ## 👨‍🎓 About Me   
-I'm **a Master student** being passionate about the intersection of **AI/ML** and **Cybersecurity**. My mission is to deepen my research in Artificial Intelligence and Cybersecurity, exploring how intelligent systems can enhance digital security and ready for pursuing a Ph.D. to push the boundaries of this field.   
-
+I'm **a Master student** being passionate about the intersection of **Artificial Intelligence** and **Mechanical Engineering**. My research focuses on permanent magnet synchronous motors(PMSM), exploring how machine learning can optimize performance and efficiency in complex mechanical systems.
 
 - 🎓 Earned the bachelor's degree of **Computer Science and Technology**.   
-- 🎓 Pursuing the master's degree of **Network Engineering**.   
+- 🎓 Pursuing the master's degree of **Mechanical Engineering**.   
 
 **Theoretical Foundations**
 - 🔢 **Applied Mathematics**: The practical programming application of probability, Statistics, and Algebra for ML.
